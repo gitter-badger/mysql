@@ -1,5 +1,7 @@
 # MySQL autopilot pattern
 
+[![Join the chat at https://gitter.im/autopilotpattern/mysql](https://badges.gitter.im/autopilotpattern/mysql.svg)](https://gitter.im/autopilotpattern/mysql?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 MySQL designed for container-native deployment on Joyent's Triton platform. This repo serves as a blueprint demonstrating the autopilot design pattern -- automatically setting up replication, backups, and failover without human intervention.
 
 ---
